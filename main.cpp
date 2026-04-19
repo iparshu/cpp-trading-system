@@ -3,6 +3,6 @@
 int main()
 {
 
-    std::cout << " Execution Completed! ";
+    std::cout << " Execution Completed!";
     return 0;
 }
